@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
